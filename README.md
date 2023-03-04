@@ -12,4 +12,4 @@
 
 目前是这样 后面再完善完善
 
-![main.png](https://github.com/70loKirin/BBDown-For-Only-Audio/tree/main/picture/main.png)
+![main.png](https://github.com/70loKirin/BBDown-For-Only-Audio/blob/master/picture/main.png)
